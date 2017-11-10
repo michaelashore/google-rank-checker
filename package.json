@@ -1,0 +1,25 @@
+{
+  "name": "google-rank-checker",
+  "version": "1.0.0",
+  "description": "Checks positioning of a website for a specific search term in Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "checker",
+    "selenium",
+    "webdriver",
+    "chromedriver"
+  ],
+  "author": "Michael Shore <hello@michael-shore.uk>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelashore/google-rank-checker.git"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.33.2",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
