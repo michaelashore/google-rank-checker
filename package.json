@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "chromedriver": "^2.33.2",
-    "selenium-webdriver": "^3.6.0"
+    "selenium-webdriver": "^4.8.2"
   }
 }
